@@ -1,0 +1,14 @@
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.exe
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.deps.json
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.runtimeconfig.json
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.runtimeconfig.dev.json
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.dll
+E:\MathGame\MathGame\bin\Debug\netcoreapp3.1\MathGame.pdb
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.csproj.AssemblyReference.cache
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.AssemblyInfoInputs.cache
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.AssemblyInfo.cs
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.csproj.CoreCompileInputs.cache
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.dll
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.pdb
+E:\MathGame\MathGame\obj\Debug\netcoreapp3.1\MathGame.genruntimeconfig.cache
